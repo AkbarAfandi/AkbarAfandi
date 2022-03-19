@@ -3,7 +3,7 @@
 - 🌳 Programing language that I have average knowledge
      - Bash
 - 🌱 Programing language that I'm still learning
-     - JavaScript
+     - JavaScript (Priority)
      - Python
      - C 
 - 📫 You can contact me on 
