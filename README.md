@@ -5,7 +5,7 @@
 - 🌱 Programing language that I'm still learning
      - JavaScript (Priority)
      - Python
-     - C 
+     - C++
 - 📫 You can contact me on 
      - Discord : AkbarAfandiFl#5475
 
