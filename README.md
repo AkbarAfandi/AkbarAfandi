@@ -2,10 +2,9 @@
 - 👀 I’m a regular middle schooler who like to code 
 - 🌳 Programing language that I have average knowledge
      - Bash
+     - Python
 - 🌱 Programing language that I'm still learning
      - JavaScript (Priority)
-     - Python
-     - C++
 - 📫 You can contact me on 
      - Discord : AkbarAfandiFl#5475
 
